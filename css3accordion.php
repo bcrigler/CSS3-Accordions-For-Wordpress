@@ -3,6 +3,7 @@
 Plugin Name: CSS3 Accordion
 Description: CSS3 Accordions in Wordpress
 Author: Brian Crigler 
+Author URI: briancrigler@hotmail.com
 Version: 0.1 Beta 
 */  
 function css_accord_scripts() {
