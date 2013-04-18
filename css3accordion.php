@@ -4,7 +4,7 @@ Plugin Name: CSS3 Accordion
 Description: CSS3 Accordions in Wordpress
 Author: Brian Crigler 
 Author URI: http://www.tritondigital.com
-Version: 1.0 
+Version: 0.1 Beta 
 */  
 function css_accord_scripts() {
 	if (!is_admin()) {
